@@ -1,6 +1,5 @@
 # Credit-Card-Financial-Reports
-Power BI Project analysing Transaction and Customers data of company providing service through credit cards.
-
+I analyzed customer and transaction data for a company providing credit card services using Power BI.
 ## Objective: 
 Analyse the transactions and customers data from a
 financial company providing service to customers with
