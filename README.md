@@ -1,5 +1,5 @@
 # Credit-Card-Financial-Reports
-I analyzed customer and transaction data for a company providing credit card services using Power BI.
+Personal project where I analyzed customer and transaction data for a company providing credit card services using Power BI.
 ## Objective: 
 Analyse the transactions and customers data from a
 financial company providing service to customers with
@@ -22,7 +22,7 @@ Performing necessary number crunching using DAX .
 Creating and customizing various visuals to generate our KPI dashboard.
 
 #### 6. Export & Share :
-Shared actionable insights with stakeholders based on dashboard findings to support decision-making processes.
+We can share actionable insights with stakeholders based on dashboard findings to support decision-making processes.
 
 
  ## Key Insights:- 
